@@ -371,6 +371,11 @@ article .icon{
   border-color: rgb(163, 163, 163);
 }
 
+/* Dream Section */
+
+#mydream {
+  position: relative;
+}
 
 /* CONTACT SECTION */ 
 
